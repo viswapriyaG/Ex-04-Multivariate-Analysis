@@ -107,45 +107,53 @@ sns.heatmap(df.corr(),annot=True)
 
 Dataset
 
-![](https://github.com/Hariharan5354/Ex-04-Multivariate-Analysis/blob/main/01.jpg)
+![mul](https://github.com/viswapriyaG/Ex-04-Multivariate-Analysis/assets/131427787/c01b2d65-8edf-428a-98b2-a4d39527eb6e)
+
 
 Dataset information
 
-![](https://github.com/Hariharan5354/Ex-04-Multivariate-Analysis/blob/main/02.jpg)
+![mul 3](https://github.com/viswapriyaG/Ex-04-Multivariate-Analysis/assets/131427787/47056652-4a7f-43b4-b2fd-28c5c5737f2e)
+
 
 Data describe
 
-![](https://github.com/Hariharan5354/Ex-04-Multivariate-Analysis/blob/main/03.jpg)
+![mul 4](https://github.com/viswapriyaG/Ex-04-Multivariate-Analysis/assets/131427787/b302a6a6-4b3f-4c36-a6fe-64c0b7457169)
+
 
 Checking and cleaning of null values
 
-![](https://github.com/Hariharan5354/Ex-04-Multivariate-Analysis/blob/main/04.jpg)
+![mul 5](https://github.com/viswapriyaG/Ex-04-Multivariate-Analysis/assets/131427787/ec817304-9597-460a-a459-18c88a92c337)
 
-![](https://github.com/Hariharan5354/Ex-04-Multivariate-Analysis/blob/main/05.jpg)
+![mul 7](https://github.com/viswapriyaG/Ex-04-Multivariate-Analysis/assets/131427787/d5f1d884-f81d-479e-8bd7-706d9cc61948)
+
 
 Data types
 
-![](https://github.com/Hariharan5354/Ex-04-Multivariate-Analysis/blob/main/06.jpg)
+![mul 6](https://github.com/viswapriyaG/Ex-04-Multivariate-Analysis/assets/131427787/0462c572-f867-4026-b35f-cd8e0e2cac9b)
 
 Scatterplot
 
-![](https://github.com/Hariharan5354/Ex-04-Multivariate-Analysis/blob/main/07.jpg)
+![mul 8](https://github.com/viswapriyaG/Ex-04-Multivariate-Analysis/assets/131427787/3107aba9-ac4a-4af5-8d01-992a6d4c9891)
 
 Barplot
 
-![](https://github.com/Hariharan5354/Ex-04-Multivariate-Analysis/blob/main/08.jpg)
+![mul 9](https://github.com/viswapriyaG/Ex-04-Multivariate-Analysis/assets/131427787/44c43a4b-0512-4006-a1eb-5ae45bc653bd)
 
-![plot](https://github.com/viswapriyaG/Ex-04-Multivariate-Analysis/assets/131427787/9ff41518-93e4-4592-b42e-c39e50370ff9)
+![plot](https://github.com/viswapriyaG/Ex-04-Multivariate-Analysis/assets/131427787/7f61b65a-3ce1-424a-80cb-8347a6b2ae8c)
 
-![](https://github.com/Hariharan5354/Ex-04-Multivariate-Analysis/blob/main/10.jpg)
+![mul 10](https://github.com/viswapriyaG/Ex-04-Multivariate-Analysis/assets/131427787/934ab9bd-a79e-4fed-8620-232f19c7f082)
+
+![mul 12](https://github.com/viswapriyaG/Ex-04-Multivariate-Analysis/assets/131427787/6d0c2f4f-79a2-4320-b4f8-e09104498639)
+
 
 Correlation coefficient interpretation
 
-![](https://github.com/Hariharan5354/Ex-04-Multivariate-Analysis/blob/main/11.jpg)
+![mul 11](https://github.com/viswapriyaG/Ex-04-Multivariate-Analysis/assets/131427787/f58f4246-07d8-409d-a5b4-08dc00aadaa8)
 
 Heatmap
 
-![](https://github.com/Hariharan5354/Ex-04-Multivariate-Analysis/blob/main/12.jpg)
+![mul 13](https://github.com/viswapriyaG/Ex-04-Multivariate-Analysis/assets/131427787/1c79eb74-50a6-46bd-99f9-eb04e947a4e6)
+
 
 # RESULT:
 
